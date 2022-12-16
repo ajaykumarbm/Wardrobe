@@ -1,0 +1,20 @@
+{
+    "User Info":
+    [
+      {
+        "User ID": "12",
+        "User Nmae": "Krishnan"  
+      }
+    ],
+
+    "Tops":
+    [
+
+        {
+            "Male_Top_1": true,
+            "Male___Top___2": false,
+            "Male_Top_3": true
+        }
+    ]
+    
+}
