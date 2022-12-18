@@ -1,0 +1,23 @@
+{
+  "User Info":
+  [
+    {
+      "UserID": "0",
+      "Firstname": "Ajaykumar",
+      "Lastname": "B",
+      "PlayerDesc": "Into VR devalopment",
+      "MaxGold": "523",
+      "Tease": "Red"
+    },
+
+    {
+      "UserID": "1",
+      "Firstname": "KumarAjay",
+      "Lastname": "A",
+      "PlayerDesc": "Into AR devalopment",
+      "MaxGold": "632",
+      "Tease": "Black"
+    }
+    
+  ]
+}
