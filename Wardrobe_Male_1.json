@@ -1,0 +1,47 @@
+{
+    "User Info":
+    [
+      {
+        "User ID": "12",
+        "User Nmae": "Krishnan"  
+      }
+    ],
+
+    "Tops":
+    [
+
+        {
+            "Male_Top_1": true,
+            "Male___Top___2": false,
+            "Male_Top_3": true
+        }
+    ],
+
+    "Bottom":
+    [
+      {
+        "Male_Bottom_1": true,
+        "Male_Bottom_2": false,
+        "Male_Bottom_3": true
+      }
+    ],
+
+    "Shoe":
+    [
+      {
+        "Male_Show_1": true,
+        "Male_Show_2": false,
+        "Male_Show_3": true
+        
+      }
+    ],
+
+    "Hat":
+    [
+      {
+        "Male_Hat_1": true,
+        "Male_Hat_2": false
+      }
+    ]
+    
+}
