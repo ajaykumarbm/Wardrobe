@@ -1,21 +1,12 @@
 {
-    "User Info":
-    [
-      {
-        "User ID": "12",
-        "User Name": "Krishnan"  
-      }
-    ],
-
     "Tops":
     [
-
-        {
-            "1": true,
-            "2": false,
-            "3": true
-        }
-    ]
-
-    
+      {
+        "Female___Top_1": true,
+        "Female___Top___2___Rolled_Sleeve_Brown": false,
+        "Female___Top___3___Sweater": true,
+        "Female___Top___4___Shirt":false  
+      }
+    ] 
 }
+
