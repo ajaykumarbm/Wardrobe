@@ -1,0 +1,21 @@
+{
+    "User Info":
+    [
+      {
+        "User ID": "12",
+        "User Name": "Krishnan"  
+      }
+    ],
+
+    "Tops":
+    [
+
+        {
+            "1": true,
+            "2": false,
+            "3": true
+        }
+    ]
+
+    
+}
